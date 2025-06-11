@@ -1,4 +1,5 @@
 a=6
-b=7
-# hello
+b=4
+# hello new
 print('hello')
+print(b)
